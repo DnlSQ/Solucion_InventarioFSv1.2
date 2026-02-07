@@ -1,0 +1,11 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: Tarea2, configuración: Debug Any CPU ------
+1>  Tarea2 -> C:\Users\Dnl20\source\repos\SolucionTarea\Tarea2\bin\Debug\Tarea2.dll
+2>------ Operación Compilar iniciada: proyecto: AccesoDatosSQL, configuración: Debug Any CPU ------
+2>C:\Users\Dnl20\source\repos\SolucionTarea\AccesoDatosSQL\AccesoSQL.cs(21,30,21,42): warning CS0169: El campo 'AccesoSQL.lstresultado' nunca se usa
+2>  AccesoDatosSQL -> C:\Users\Dnl20\source\repos\SolucionTarea\AccesoDatosSQL\bin\Debug\AccesoDatosSQL.dll
+3>------ Operación Compilar iniciada: proyecto: Negocio, configuración: Debug Any CPU ------
+3>  Negocio -> C:\Users\Dnl20\source\repos\SolucionTarea\Negocio\bin\Debug\Negocio.dll
+4>------ Operación Compilar iniciada: proyecto: Presentacion, configuración: Debug Any CPU ------
+4>  Presentacion -> C:\Users\Dnl20\source\repos\SolucionTarea\Presentacion\bin\Debug\Presentacion.exe
+========== Compilar: 4 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
