@@ -55,22 +55,22 @@ This structure helps keep the system modular, scalable, and easier to maintain.
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](assets/screenshots/Menu%20Principal.png)
+![Main Menu](assets/Menu%20Principal.png)
 
 ### Employee Module (CRUD + Search)
-![Employee CRUD](assets/screenshots/Registro%20Empleado.png)
+![Employee CRUD](assets/Registro%20Empleado.png)
 
 ### Purchase Order Module
-![Purchase Order](assets/screenshots/Crear%20orden%20de%20compra.png)
+![Purchase Order](assets/Crear%20orden%20de%20compra.png)
 
 ### Inventory Transactions
-![Inventory Transactions](assets/screenshots/Transacciones%20del%20inventario.png)
+![Inventory Transactions](assets/Transacciones%20del%20inventario.png)
 
 ### Stock Report
-![Stock Report](assets/screenshots/Reporte%20Stock.png)
+![Stock Report](assets/Reporte%20Stock.png)
 
 ### Purchase Audit Module
-![Purchase Audit](assets/screenshots/Auditoria%20compras.png)
+![Purchase Audit](assets/Auditoria%20compras.png)
 
 ---
 
